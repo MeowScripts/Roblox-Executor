@@ -13,7 +13,7 @@ Download: https://github.com/MeowScripts/Roblox-Executor/releases/download/v1.0.
 Comes with preinstalled scripts for most common games.
 
 # Instructions
-1. Download from releases tab or link @ top of page
+1. Download from releases tab (direct download link at top of page)
 2. Open R-Loader folder
 3. Run R-Loader executable
 4. Click load
