@@ -7,7 +7,7 @@ Download: https://github.com/MeowScripts/Roblox-Executor/releases/download/v1.0.
 + Fully undetectable
 + Creates child thread for excutor in Roblox client
 + Hijacks byfron anti-cheat's signature
-+ Executes script as byfron signed threaad
++ Executes script as byfron signed thread
 + Import your own scripts
 
 Comes with preinstalled scripts for most common games.
@@ -21,7 +21,7 @@ Comes with preinstalled scripts for most common games.
 6. Click execute
 
 # FAQ
-Q: After I loaded my scritpt and clicked execute it takes forever?
+Q: After I loaded my script and clicked execute it takes forever?
 A: The first time you load a script it will take a while because it needs to copy the byfron signature and verify it. Every time after this, scripts ill load ver quickly/instantly.
 
 Q: When I loaded my script and clicked execute, after some time, it said anti-virus interfered with the injection?
