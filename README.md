@@ -22,7 +22,7 @@ Comes with preinstalled scripts for most common games.
 
 # FAQ
 Q: After I loaded my script and clicked execute it takes forever?
-A: The first time you load a script it will take a while because it needs to copy the byfron signature and verify it. Every time after this, scripts ill load ver quickly/instantly.
+A: The first time you load a script it will take a while because it needs to copy the byfron signature and verify it. Every time after this, scripts will load very quickly/instantly.
 
-Q: When I loaded my script and clicked execute, after some time, it said anti-virus interfered with the injection?
-A: Anti-virus can interfere with the injection process the first time you load a script because it is hijacking byfron anti-cheat's signature by side-loading into Roblox client, which anti-virus flags as malicious/suspicious. This is a false positive, you can disable anti-virus for firs time injection and then re-enable it later if it is causing issues.
+Q: Windows smart screen stops me from running?
+A: Windows 11 introduced a stricter smart screen which blocks any unsigned executable downloaded from the internet from being ran regardless of whether it is malicious or not. You can upload our actual loader executable to Virus Total and verify it is not malicious. To bypass Windows Smart screen, simply click "More info" and run anyway. 
