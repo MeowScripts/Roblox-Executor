@@ -2,7 +2,6 @@
 Fully undetectable loader and excutor for roblox. 
 
 Download: https://github.com/MeowScripts/Roblox-Executor/releases/download/v1.0.2/R-Loader.zip
-
 # Features
 + Fully undetectable
 + Creates child thread for excutor in Roblox client
