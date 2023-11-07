@@ -16,7 +16,7 @@ Comes with preinstalled scripts for most common games.
 # Instructions
 1. Download from releases tab (direct download link at top of page)
 2. Open R-Loader folder
-3. Run R-Loader executable
+3. Run Byfron-Bypass
 4. Click load
 5. Pick script or import your own
 6. Click execute
