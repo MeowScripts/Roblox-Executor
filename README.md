@@ -16,7 +16,7 @@ Comes with preinstalled scripts for most common games.
 # Instructions
 1. Download from releases tab (direct download link at top of page)
 2. Open R-Loader folder
-3. Run Byfron-Bypass
+3. Run Executor
 4. Click load
 5. Pick script or import your own
 6. Click execute
@@ -24,6 +24,9 @@ Comes with preinstalled scripts for most common games.
 # FAQ
 Q: After I loaded my script and clicked execute it takes forever?
 A: The first time you load a script it will take a while because it needs to copy the byfron signature and verify it. Every time after this, scripts will load very quickly/instantly.
+
+Q: Program not responding?
+A: Just wait. Can be like this for 2-5 minutes on first ever launch (see above question for reason).
 
 Q: Windows smart screen stops me from running?
 A: Windows 11 introduced a stricter smart screen which blocks any unsigned executable downloaded from the internet from being ran regardless of whether it is malicious or not. You can upload our actual loader executable to Virus Total and verify it is not malicious. To bypass Windows Smart screen, simply click "More info" and run anyway. 
